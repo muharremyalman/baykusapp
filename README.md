@@ -1,3 +1,3 @@
-# DenizBank Denizin İncileri Staj Programı Grup Projesi
-## Pandemi döneminde büyük kesimin evden çalışacağı bir ortamda, hayat standartlarını kolaylaştırmak amacıyla oluşturduğumuz projenin prototipidir.
+# Pearls Of The Sea Internship Program (Headquarters-Branch)
+## It is the prototype of a project that we created in order to facilitate living standards in an environment where large sections will work from home during the pandemic period.
 
